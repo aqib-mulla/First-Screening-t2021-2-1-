@@ -1,5 +1,1 @@
-![New Mockup 5](https://user-images.githubusercontent.com/40908331/127731125-aad630cc-d9de-4486-b5b7-3ae5c1b25a37.png)
-
-
-![New Mockup 6](https://user-images.githubusercontent.com/40908331/127731126-b4da2d95-453d-49b8-930c-19f7c024e4df.png)
-![New Mockup 4](https://user-images.githubusercontent.com/40908331/127731123-0b64dbf0-a183-4aca-8903-406069865826.png)
+![New Mockup 5](https://user-images.githubusercontent.com/40908331/127731125-aad630cc-d9de-4486-b5b7-3ae5c1b25a37.png)![New Mockup 6](https://user-images.githubusercontent.com/40908331/127731126-b4da2d95-453d-49b8-930c-19f7c024e4df.png)![New Mockup 4](https://user-images.githubusercontent.com/40908331/127731123-0b64dbf0-a183-4aca-8903-406069865826.png)
