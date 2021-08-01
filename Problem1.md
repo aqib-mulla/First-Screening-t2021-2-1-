@@ -3,7 +3,8 @@
 ![New Mockup 2](https://user-images.githubusercontent.com/40908331/127730867-8b8066ff-c8ef-4e2e-a89f-d1ba1a5137c3.png)
 ![New Mockup 6](https://user-images.githubusercontent.com/40908331/127731126-b4da2d95-453d-49b8-930c-19f7c024e4df.png)
 ![New Mockup 3](https://user-images.githubusercontent.com/40908331/127731413-1d3dbf0d-f8c0-4b69-9a0b-44a0ae019db2.png)
-![New Mockup 4](https://user-images.githubusercontent.com/40908331/127761920-2a89d3e4-223a-4968-9ae2-540594b90dfd.png)
+![New Mockup 4](https://user-images.githubusercontent.com/40908331/127770015-d7ad0350-611b-42b1-a253-8394994a64a1.png)
+
 
 
 
